@@ -92,194 +92,194 @@ const DraggableSdivder = ({ setCategory }) => {
   //   });
   // }, []);
 
-  // const categories = [
-  //   {
-  //     icon: (
-  //       <MdOutlineBedroomParent className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Rooms",
-  //   },
-  //   {
-  //     icon: (
-  //       <LiaSwimmingPoolSolid className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Amazing pools",
-  //   },
-  //   {
-  //     icon: (
-  //       <PiFire className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Trending",
-  //   },
-  //   {
-  //     icon: (
-  //       <MdOutlineSportsCricket className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Play",
-  //   },
-  //   {
-  //     icon: (
-  //       <FiKey className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "New",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiTheaterCurtains className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Amazing Views",
-  //   },
-  //   {
-  //     icon: (
-  //       <HiOutlineBuildingOffice2 className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Mansions",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiModernCity className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Iconic cities",
-  //   },
-  //   {
-  //     icon: (
-  //       <RiShipLine className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "OMG!",
-  //   },
-  //   {
-  //     icon: (
-  //       <PiBuildingsLight className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Design",
-  //   },
-  //   {
-  //     icon: (
-  //       <PiCoffee className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Beg & Breakfasts",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiBaseDome className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Domes",
-  //   },
-  //   {
-  //     icon: (
-  //       <PiBoat className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Boats",
-  //   },
-  //   {
-  //     icon: (
-  //       <TbChefHat className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Chef's kitchens",
-  //   },
-  //   {
-  //     icon: (
-  //       <PiCactus className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Desert",
-  //   },
-  //   {
-  //     icon: (
-  //       <RiHomeOfficeLine className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Earth homes",
-  //   },
-  //   {
-  //     icon: (
-  //       <RiShipLine className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "OMG!",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiIsland className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Islands",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiMountaintop className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Top of the world",
-  //   },
-  //   {
-  //     icon: (
-  //       <LuHome className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Cycliadic homes",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiPalmTree className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Tropical",
-  //   },
-  //   {
-  //     icon: (
-  //       <MdOutlineHomeWork className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Historical homes",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiDoubleStreetLights className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Country side",
-  //   },
-  //   {
-  //     icon: (
-  //       <PiParkThin className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "National parks",
-  //   },
-  //   {
-  //     icon: (
-  //       <MdOutlineRepartition className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Casas particulares",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiSkier className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Ski-in/out",
-  //   },
-  //   {
-  //     icon: (
-  //       <MdOutlineCabin className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Cabins",
-  //   },
-  //   {
-  //     icon: (
-  //       <GiWatchtower className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Towers",
-  //   },
-  //   {
-  //     icon: (
-  //       <TbTopologyStarRing3 className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Arctic",
-  //   },
-  //   // {
-  //   //   icon: (
-  //   //     <FaBuildingWheat className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //   //   ),
-  //   //   name: "Farms",
-  //   // },
-  //   {
-  //     icon: (
-  //       <GiVines className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
-  //     ),
-  //     name: "Vineyards",
-  //   },
-  // ];
+  const categories = [
+    {
+      icon: (
+        <MdOutlineBedroomParent className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Rooms",
+    },
+    {
+      icon: (
+        <LiaSwimmingPoolSolid className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Amazing pools",
+    },
+    {
+      icon: (
+        <PiFire className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Trending",
+    },
+    {
+      icon: (
+        <MdOutlineSportsCricket className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Play",
+    },
+    {
+      icon: (
+        <FiKey className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "New",
+    },
+    {
+      icon: (
+        <GiTheaterCurtains className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Amazing Views",
+    },
+    {
+      icon: (
+        <HiOutlineBuildingOffice2 className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Mansions",
+    },
+    {
+      icon: (
+        <GiModernCity className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Iconic cities",
+    },
+    {
+      icon: (
+        <RiShipLine className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "OMG!",
+    },
+    {
+      icon: (
+        <PiBuildingsLight className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Design",
+    },
+    {
+      icon: (
+        <PiCoffee className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Beg & Breakfasts",
+    },
+    {
+      icon: (
+        <GiBaseDome className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Domes",
+    },
+    {
+      icon: (
+        <PiBoat className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Boats",
+    },
+    {
+      icon: (
+        <TbChefHat className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Chef's kitchens",
+    },
+    {
+      icon: (
+        <PiCactus className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Desert",
+    },
+    {
+      icon: (
+        <RiHomeOfficeLine className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Earth homes",
+    },
+    {
+      icon: (
+        <RiShipLine className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "OMG!",
+    },
+    {
+      icon: (
+        <GiIsland className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Islands",
+    },
+    {
+      icon: (
+        <GiMountaintop className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Top of the world",
+    },
+    {
+      icon: (
+        <LuHome className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Cycliadic homes",
+    },
+    {
+      icon: (
+        <GiPalmTree className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Tropical",
+    },
+    {
+      icon: (
+        <MdOutlineHomeWork className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Historical homes",
+    },
+    {
+      icon: (
+        <GiDoubleStreetLights className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Country side",
+    },
+    {
+      icon: (
+        <PiParkThin className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "National parks",
+    },
+    {
+      icon: (
+        <MdOutlineRepartition className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Casas particulares",
+    },
+    {
+      icon: (
+        <GiSkier className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Ski-in/out",
+    },
+    {
+      icon: (
+        <MdOutlineCabin className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Cabins",
+    },
+    {
+      icon: (
+        <GiWatchtower className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Towers",
+    },
+    {
+      icon: (
+        <TbTopologyStarRing3 className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Arctic",
+    },
+    // {
+    //   icon: (
+    //     <FaBuildingWheat className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+    //   ),
+    //   name: "Farms",
+    // },
+    {
+      icon: (
+        <GiVines className='text-[25px] text-[#666666] group-hover:text-black duration-300 transition-all' />
+      ),
+      name: "Vineyards",
+    },
+  ];
 
   return (
     <div className='bg-white relative ml-10 mr-6'>
@@ -318,9 +318,10 @@ const DraggableSdivder = ({ setCategory }) => {
                 setCategory(category?.name);
               }}
             >
-              <IconContext.Provider value={{ size: "25px" }}>
+              {/* <IconContext.Provider value={{ size: "25px" }}>
                 {React.createElement(eval(category.icon))}
-              </IconContext.Provider>
+              </IconContext.Provider> */}
+              {category?.icon}
               <span className='text-[12px] font-semibold'>{category.name}</span>
             </li>
           ))}
