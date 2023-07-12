@@ -1,0 +1,122 @@
+[
+  {
+    "icon": "MdOutlineBedroomParent",
+    "name": "Rooms"
+  },
+  {
+    "icon": "LiaSwimmingPoolSolid",
+    "name": "Amazing pools"
+  },
+  {
+    "icon": "PiFire",
+    "name": "Trending"
+  },
+  {
+    "icon": "MdOutlineSportsCricket",
+    "name": "Play"
+  },
+  {
+    "icon": "FiKey",
+    "name": "New"
+  },
+  {
+    "icon": "GiTheaterCurtains",
+    "name": "Amazing Views"
+  },
+  {
+    "icon": "HiOutlineBuildingOffice2",
+    "name": "Mansions"
+  },
+  {
+    "icon": "GiModernCity",
+    "name": "Iconic cities"
+  },
+  {
+    "icon": "RiShipLine",
+    "name": "OMG!"
+  },
+  {
+    "icon": "PiBuildingsLight",
+    "name": "Design"
+  },
+  {
+    "icon": "PiCoffee",
+    "name": "Beg & Breakfasts"
+  },
+  {
+    "icon": "GiBaseDome",
+    "name": "Domes"
+  },
+  {
+    "icon": "PiBoat",
+    "name": "Boats"
+  },
+  {
+    "icon": "TbChefHat",
+    "name": "Chef's kitchens"
+  },
+  {
+    "icon": "PiCactus",
+    "name": "Desert"
+  },
+  {
+    "icon": "RiHomeOfficeLine",
+    "name": "Earth homes"
+  },
+  {
+    "icon": "RiShipLine",
+    "name": "OMG!"
+  },
+  {
+    "icon": "GiIsland",
+    "name": "Islands"
+  },
+  {
+    "icon": "GiMountaintop",
+    "name": "Top of the world"
+  },
+  {
+    "icon": "LuHome",
+    "name": "Cycliadic homes"
+  },
+  {
+    "icon": "GiPalmTree",
+    "name": "Tropical"
+  },
+  {
+    "icon": "MdOutlineHomeWork",
+    "name": "Historical homes"
+  },
+  {
+    "icon": "GiDoubleStreetLights",
+    "name": "Country side"
+  },
+  {
+    "icon": "PiParkThin",
+    "name": "National parks"
+  },
+  {
+    "icon": "MdOutlineRepartition",
+    "name": "Casas particulares"
+  },
+  {
+    "icon": "GiSkier",
+    "name": "Ski-in/out"
+  },
+  {
+    "icon": "MdOutlineCabin",
+    "name": "Cabins"
+  },
+  {
+    "icon": "GiWatchtower",
+    "name": "Towers"
+  },
+  {
+    "icon": "TbTopologyStarRing3",
+    "name": "Arctic"
+  },
+  {
+    "icon": "GiVines",
+    "name": "Vineyards"
+  }
+]

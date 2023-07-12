@@ -1,0 +1,2078 @@
+[
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "5 bedroom Duplex in Ajah",
+    "host": "John Doe",
+    "startDate": "2023-08-01",
+    "endDate": "2023-08-10",
+    "costPerNight": 150,
+    "averageRating": 4.5,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxurious Villa in Bali",
+    "host": "Jane Smith",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-27",
+    "costPerNight": 300,
+    "averageRating": 4.8,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Sahara Desert Getaway",
+    "host": "Ahmed Ali",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-10",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Family-friendly Resort in Miami",
+    "host": "Maria Garcia",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-25",
+    "costPerNight": 250,
+    "averageRating": 4.7,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa with Private Pool",
+    "host": "Robert Johnson",
+    "startDate": "2023-08-15",
+    "endDate": "2023-08-25",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Tropical Paradise in Hawaii",
+    "host": "Emily Thompson",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-10",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": "/images/room7.webp",
+    "name": "Igloo Retreat in Arctic Circle",
+    "host": "Lars Andersen",
+    "startDate": "2023-12-01",
+    "endDate": "2023-12-10",
+    "costPerNight": 500,
+    "averageRating": 4.7,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Island Escape in Maldives",
+    "host": "Sophia Martinez",
+    "startDate": "2023-10-01",
+    "endDate": "2023-10-07",
+    "costPerNight": 800,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Penthouse in Dubai",
+    "host": "Ahmed Khalid",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-22",
+    "costPerNight": 600,
+    "averageRating": 4.8,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Oceanfront Villa in Bali",
+    "host": "Maria Lopez",
+    "startDate": "2023-08-20",
+    "endDate": "2023-08-28",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Amazing Views",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "nights": "5",
+    "workType": "Teacher"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Minimalist Loft in New York City",
+    "host": "Michael Williams",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-25",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "New",
+    "country": "Nigeria",
+    "city": "Ibadan",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Charming Cottage in the Countryside",
+    "host": "Emma Scott",
+    "startDate": "2023-07-25",
+    "endDate": "2023-08-01",
+    "costPerNight": 120,
+    "averageRating": 4.4,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa in the Swiss Alps",
+    "host": "David Müller",
+    "startDate": "2023-08-10",
+    "endDate": "2023-08-18",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": "/images/apartment1.jpg",
+    "name": "Serenity in the Desert",
+    "host": "Aisha Ahmed",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-17",
+    "costPerNight": 180,
+    "averageRating": 4.3,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Yacht Party",
+    "host": "Alex Wilson",
+    "startDate": "2023-08-25",
+    "endDate": "2023-08-31",
+    "costPerNight": 900,
+    "averageRating": 4.9,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Mountain Retreat in the Rockies",
+    "host": "Olivia Brown",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-23",
+    "costPerNight": 300,
+    "averageRating": 4.7,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Seaside Paradise in Greece",
+    "host": "Nikos Papadopoulos",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-15",
+    "costPerNight": 250,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Ice Hotel Experience in Sweden",
+    "host": "Elsa Karlsson",
+    "startDate": "2023-12-15",
+    "endDate": "2023-12-25",
+    "costPerNight": 550,
+    "averageRating": 4.8,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Villa in Seychelles",
+    "host": "Sophie Rousseau",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-07",
+    "costPerNight": 700,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Apartment in Paris",
+    "host": "Claire Leblanc",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-30",
+    "costPerNight": 400,
+    "averageRating": 4.7,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "5 bedroom Duplex in Ajah",
+    "host": "John Doe",
+    "startDate": "2023-08-01",
+    "endDate": "2023-08-10",
+    "costPerNight": 150,
+    "averageRating": 4.5,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxurious Villa in Bali",
+    "host": "Jane Smith",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-27",
+    "costPerNight": 300,
+    "averageRating": 4.8,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Sahara Desert Getaway",
+    "host": "Ahmed Ali",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-10",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Family-friendly Resort in Miami",
+    "host": "Maria Garcia",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-25",
+    "costPerNight": 250,
+    "averageRating": 4.7,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa with Private Pool",
+    "host": "Robert Johnson",
+    "startDate": "2023-08-15",
+    "endDate": "2023-08-25",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Benin City",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Tropical Paradise in Hawaii",
+    "host": "Emily Thompson",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-10",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": "/images/room7.webp",
+    "name": "Igloo Retreat in Arctic Circle",
+    "host": "Lars Andersen",
+    "startDate": "2023-12-01",
+    "endDate": "2023-12-10",
+    "costPerNight": 500,
+    "averageRating": 4.7,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Island Escape in Maldives",
+    "host": "Sophia Martinez",
+    "startDate": "2023-10-01",
+    "endDate": "2023-10-07",
+    "costPerNight": 800,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Penthouse in Dubai",
+    "host": "Ahmed Khalid",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-22",
+    "costPerNight": 600,
+    "averageRating": 4.8,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Oceanfront Villa in Bali",
+    "host": "Maria Lopez",
+    "startDate": "2023-08-20",
+    "endDate": "2023-08-28",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Amazing Views",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "nights": "5",
+    "workType": "Teacher"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Minimalist Loft in New York City",
+    "host": "Michael Williams",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-25",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "New",
+    "country": "Nigeria",
+    "city": "Ibadan",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Charming Cottage in the Countryside",
+    "host": "Emma Scott",
+    "startDate": "2023-07-25",
+    "endDate": "2023-08-01",
+    "costPerNight": 120,
+    "averageRating": 4.4,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa in the Swiss Alps",
+    "host": "David Müller",
+    "startDate": "2023-08-10",
+    "endDate": "2023-08-18",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": "/images/apartment1.jpg",
+    "name": "Serenity in the Desert",
+    "host": "Aisha Ahmed",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-17",
+    "costPerNight": 180,
+    "averageRating": 4.3,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Yacht Party",
+    "host": "Alex Wilson",
+    "startDate": "2023-08-25",
+    "endDate": "2023-08-31",
+    "costPerNight": 900,
+    "averageRating": 4.9,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Mountain Retreat in the Rockies",
+    "host": "Olivia Brown",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-23",
+    "costPerNight": 300,
+    "averageRating": 4.7,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Benin City",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Seaside Paradise in Greece",
+    "host": "Nikos Papadopoulos",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-15",
+    "costPerNight": 250,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Ice Hotel Experience in Sweden",
+    "host": "Elsa Karlsson",
+    "startDate": "2023-12-15",
+    "endDate": "2023-12-25",
+    "costPerNight": 550,
+    "averageRating": 4.8,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Villa in Seychelles",
+    "host": "Sophie Rousseau",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-07",
+    "costPerNight": 700,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Apartment in Paris",
+    "host": "Claire Leblanc",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-30",
+    "costPerNight": 400,
+    "averageRating": 4.7,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "5 bedroom Duplex in Ajah",
+    "host": "John Doe",
+    "startDate": "2023-08-01",
+    "endDate": "2023-08-10",
+    "costPerNight": 150,
+    "averageRating": 4.5,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxurious Villa in Bali",
+    "host": "Jane Smith",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-27",
+    "costPerNight": 300,
+    "averageRating": 4.8,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Sahara Desert Getaway",
+    "host": "Ahmed Ali",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-10",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Family-friendly Resort in Miami",
+    "host": "Maria Garcia",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-25",
+    "costPerNight": 250,
+    "averageRating": 4.7,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa with Private Pool",
+    "host": "Robert Johnson",
+    "startDate": "2023-08-15",
+    "endDate": "2023-08-25",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Tropical Paradise in Hawaii",
+    "host": "Emily Thompson",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-10",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": "/images/room7.webp",
+    "name": "Igloo Retreat in Arctic Circle",
+    "host": "Lars Andersen",
+    "startDate": "2023-12-01",
+    "endDate": "2023-12-10",
+    "costPerNight": 500,
+    "averageRating": 4.7,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Island Escape in Maldives",
+    "host": "Sophia Martinez",
+    "startDate": "2023-10-01",
+    "endDate": "2023-10-07",
+    "costPerNight": 800,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Penthouse in Dubai",
+    "host": "Ahmed Khalid",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-22",
+    "costPerNight": 600,
+    "averageRating": 4.8,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Oceanfront Villa in Bali",
+    "host": "Maria Lopez",
+    "startDate": "2023-08-20",
+    "endDate": "2023-08-28",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Amazing Views",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "nights": "5",
+    "workType": "Teacher"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Minimalist Loft in New York City",
+    "host": "Michael Williams",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-25",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "New",
+    "country": "Nigeria",
+    "city": "Ibadan",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Charming Cottage in the Countryside",
+    "host": "Emma Scott",
+    "startDate": "2023-07-25",
+    "endDate": "2023-08-01",
+    "costPerNight": 120,
+    "averageRating": 4.4,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa in the Swiss Alps",
+    "host": "David Müller",
+    "startDate": "2023-08-10",
+    "endDate": "2023-08-18",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": "/images/apartment1.jpg",
+    "name": "Serenity in the Desert",
+    "host": "Aisha Ahmed",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-17",
+    "costPerNight": 180,
+    "averageRating": 4.3,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Yacht Party",
+    "host": "Alex Wilson",
+    "startDate": "2023-08-25",
+    "endDate": "2023-08-31",
+    "costPerNight": 900,
+    "averageRating": 4.9,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Mountain Retreat in the Rockies",
+    "host": "Olivia Brown",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-23",
+    "costPerNight": 300,
+    "averageRating": 4.7,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Ikeja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Seaside Paradise in Greece",
+    "host": "Nikos Papadopoulos",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-15",
+    "costPerNight": 250,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Ice Hotel Experience in Sweden",
+    "host": "Elsa Karlsson",
+    "startDate": "2023-12-15",
+    "endDate": "2023-12-25",
+    "costPerNight": 550,
+    "averageRating": 4.8,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Villa in Seychelles",
+    "host": "Sophie Rousseau",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-07",
+    "costPerNight": 700,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Apartment in Paris",
+    "host": "Claire Leblanc",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-30",
+    "costPerNight": 400,
+    "averageRating": 4.7,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "5 bedroom Duplex in Ajah",
+    "host": "John Doe",
+    "startDate": "2023-08-01",
+    "endDate": "2023-08-10",
+    "costPerNight": 150,
+    "averageRating": 4.5,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxurious Villa in Bali",
+    "host": "Jane Smith",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-27",
+    "costPerNight": 300,
+    "averageRating": 4.8,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Sahara Desert Getaway",
+    "host": "Ahmed Ali",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-10",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Family-friendly Resort in Miami",
+    "host": "Maria Garcia",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-25",
+    "costPerNight": 250,
+    "averageRating": 4.7,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa with Private Pool",
+    "host": "Robert Johnson",
+    "startDate": "2023-08-15",
+    "endDate": "2023-08-25",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Tropical Paradise in Hawaii",
+    "host": "Emily Thompson",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-10",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": "/images/room7.webp",
+    "name": "Igloo Retreat in Arctic Circle",
+    "host": "Lars Andersen",
+    "startDate": "2023-12-01",
+    "endDate": "2023-12-10",
+    "costPerNight": 500,
+    "averageRating": 4.7,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Island Escape in Maldives",
+    "host": "Sophia Martinez",
+    "startDate": "2023-10-01",
+    "endDate": "2023-10-07",
+    "costPerNight": 800,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Penthouse in Dubai",
+    "host": "Ahmed Khalid",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-22",
+    "costPerNight": 600,
+    "averageRating": 4.8,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Oceanfront Villa in Bali",
+    "host": "Maria Lopez",
+    "startDate": "2023-08-20",
+    "endDate": "2023-08-28",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Amazing Views",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "nights": "5",
+    "workType": "Teacher"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Minimalist Loft in New York City",
+    "host": "Michael Williams",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-25",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "New",
+    "country": "Nigeria",
+    "city": "Ibadan",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Charming Cottage in the Countryside",
+    "host": "Emma Scott",
+    "startDate": "2023-07-25",
+    "endDate": "2023-08-01",
+    "costPerNight": 120,
+    "averageRating": 4.4,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa in the Swiss Alps",
+    "host": "David Müller",
+    "startDate": "2023-08-10",
+    "endDate": "2023-08-18",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": "/images/apartment1.jpg",
+    "name": "Serenity in the Desert",
+    "host": "Aisha Ahmed",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-17",
+    "costPerNight": 180,
+    "averageRating": 4.3,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Yacht Party",
+    "host": "Alex Wilson",
+    "startDate": "2023-08-25",
+    "endDate": "2023-08-31",
+    "costPerNight": 900,
+    "averageRating": 4.9,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Mountain Retreat in the Rockies",
+    "host": "Olivia Brown",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-23",
+    "costPerNight": 300,
+    "averageRating": 4.7,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Seaside Paradise in Greece",
+    "host": "Nikos Papadopoulos",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-15",
+    "costPerNight": 250,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Ice Hotel Experience in Sweden",
+    "host": "Elsa Karlsson",
+    "startDate": "2023-12-15",
+    "endDate": "2023-12-25",
+    "costPerNight": 550,
+    "averageRating": 4.8,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Villa in Seychelles",
+    "host": "Sophie Rousseau",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-07",
+    "costPerNight": 700,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Apartment in Paris",
+    "host": "Claire Leblanc",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-30",
+    "costPerNight": 400,
+    "averageRating": 4.7,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "5 bedroom Duplex in Ajah",
+    "host": "John Doe",
+    "startDate": "2023-08-01",
+    "endDate": "2023-08-10",
+    "costPerNight": 150,
+    "averageRating": 4.5,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxurious Villa in Bali",
+    "host": "Jane Smith",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-27",
+    "costPerNight": 300,
+    "averageRating": 4.8,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Sahara Desert Getaway",
+    "host": "Ahmed Ali",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-10",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Family-friendly Resort in Miami",
+    "host": "Maria Garcia",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-25",
+    "costPerNight": 250,
+    "averageRating": 4.7,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa with Private Pool",
+    "host": "Robert Johnson",
+    "startDate": "2023-08-15",
+    "endDate": "2023-08-25",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Tropical Paradise in Hawaii",
+    "host": "Emily Thompson",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-10",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": "/images/room7.webp",
+    "name": "Igloo Retreat in Arctic Circle",
+    "host": "Lars Andersen",
+    "startDate": "2023-12-01",
+    "endDate": "2023-12-10",
+    "costPerNight": 500,
+    "averageRating": 4.7,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Island Escape in Maldives",
+    "host": "Sophia Martinez",
+    "startDate": "2023-10-01",
+    "endDate": "2023-10-07",
+    "costPerNight": 800,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Penthouse in Dubai",
+    "host": "Ahmed Khalid",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-22",
+    "costPerNight": 600,
+    "averageRating": 4.8,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Oceanfront Villa in Bali",
+    "host": "Maria Lopez",
+    "startDate": "2023-08-20",
+    "endDate": "2023-08-28",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Amazing Views",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "nights": "5",
+    "workType": "Teacher"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Minimalist Loft in New York City",
+    "host": "Michael Williams",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-25",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "New",
+    "country": "Nigeria",
+    "city": "Ibadan",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Charming Cottage in the Countryside",
+    "host": "Emma Scott",
+    "startDate": "2023-07-25",
+    "endDate": "2023-08-01",
+    "costPerNight": 120,
+    "averageRating": 4.4,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa in the Swiss Alps",
+    "host": "David Müller",
+    "startDate": "2023-08-10",
+    "endDate": "2023-08-18",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": "/images/apartment1.jpg",
+    "name": "Serenity in the Desert",
+    "host": "Aisha Ahmed",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-17",
+    "costPerNight": 180,
+    "averageRating": 4.3,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Yacht Party",
+    "host": "Alex Wilson",
+    "startDate": "2023-08-25",
+    "endDate": "2023-08-31",
+    "costPerNight": 900,
+    "averageRating": 4.9,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Mountain Retreat in the Rockies",
+    "host": "Olivia Brown",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-23",
+    "costPerNight": 300,
+    "averageRating": 4.7,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Seaside Paradise in Greece",
+    "host": "Nikos Papadopoulos",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-15",
+    "costPerNight": 250,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Ice Hotel Experience in Sweden",
+    "host": "Elsa Karlsson",
+    "startDate": "2023-12-15",
+    "endDate": "2023-12-25",
+    "costPerNight": 550,
+    "averageRating": 4.8,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Villa in Seychelles",
+    "host": "Sophie Rousseau",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-07",
+    "costPerNight": 700,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Apartment in Paris",
+    "host": "Claire Leblanc",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-30",
+    "costPerNight": 400,
+    "averageRating": 4.7,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "5 bedroom Duplex in Ajah",
+    "host": "John Doe",
+    "startDate": "2023-08-01",
+    "endDate": "2023-08-10",
+    "costPerNight": 150,
+    "averageRating": 4.5,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxurious Villa in Bali",
+    "host": "Jane Smith",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-27",
+    "costPerNight": 300,
+    "averageRating": 4.8,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Sahara Desert Getaway",
+    "host": "Ahmed Ali",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-10",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Family-friendly Resort in Miami",
+    "host": "Maria Garcia",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-25",
+    "costPerNight": 250,
+    "averageRating": 4.7,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa with Private Pool",
+    "host": "Robert Johnson",
+    "startDate": "2023-08-15",
+    "endDate": "2023-08-25",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Tropical Paradise in Hawaii",
+    "host": "Emily Thompson",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-10",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": "/images/room7.webp",
+    "name": "Igloo Retreat in Arctic Circle",
+    "host": "Lars Andersen",
+    "startDate": "2023-12-01",
+    "endDate": "2023-12-10",
+    "costPerNight": 500,
+    "averageRating": 4.7,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Island Escape in Maldives",
+    "host": "Sophia Martinez",
+    "startDate": "2023-10-01",
+    "endDate": "2023-10-07",
+    "costPerNight": 800,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Penthouse in Dubai",
+    "host": "Ahmed Khalid",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-22",
+    "costPerNight": 600,
+    "averageRating": 4.8,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Oceanfront Villa in Bali",
+    "host": "Maria Lopez",
+    "startDate": "2023-08-20",
+    "endDate": "2023-08-28",
+    "costPerNight": 350,
+    "averageRating": 4.6,
+    "category": "Amazing Views",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "nights": "5",
+    "workType": "Teacher"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Minimalist Loft in New York City",
+    "host": "Michael Williams",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-25",
+    "costPerNight": 200,
+    "averageRating": 4.2,
+    "category": "New",
+    "country": "Nigeria",
+    "city": "Ibadan",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Charming Cottage in the Countryside",
+    "host": "Emma Scott",
+    "startDate": "2023-07-25",
+    "endDate": "2023-08-01",
+    "costPerNight": 120,
+    "averageRating": 4.4,
+    "category": "Rooms",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Web Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Villa in the Swiss Alps",
+    "host": "David Müller",
+    "startDate": "2023-08-10",
+    "endDate": "2023-08-18",
+    "costPerNight": 400,
+    "averageRating": 4.9,
+    "category": "omg!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": "/images/apartment1.jpg",
+    "name": "Serenity in the Desert",
+    "host": "Aisha Ahmed",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-17",
+    "costPerNight": 180,
+    "averageRating": 4.3,
+    "category": "desert"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Yacht Party",
+    "host": "Alex Wilson",
+    "startDate": "2023-08-25",
+    "endDate": "2023-08-31",
+    "costPerNight": 900,
+    "averageRating": 4.9,
+    "category": "Play",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Mountain Retreat in the Rockies",
+    "host": "Olivia Brown",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-23",
+    "costPerNight": 300,
+    "averageRating": 4.7,
+    "category": "Amazing pools",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Seaside Paradise in Greece",
+    "host": "Nikos Papadopoulos",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-15",
+    "costPerNight": 250,
+    "averageRating": 4.6,
+    "category": "Trending",
+    "country": "Nigeria",
+    "city": "Port Harcout",
+    "nights": "5",
+    "workType": "Importer"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Ice Hotel Experience in Sweden",
+    "host": "Elsa Karlsson",
+    "startDate": "2023-12-15",
+    "endDate": "2023-12-25",
+    "costPerNight": 550,
+    "averageRating": 4.8,
+    "category": "Arctic"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Private Villa in Seychelles",
+    "host": "Sophie Rousseau",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-07",
+    "costPerNight": 700,
+    "averageRating": 4.9,
+    "category": "Islands"
+  },
+  {
+    "image": [
+      "/images/room.webp",
+      "/images/room2.webp",
+      "/images/room3.webp",
+      "/images/room5.webp"
+    ],
+    "name": "Luxury Apartment in Paris",
+    "host": "Claire Leblanc",
+    "startDate": "2023-07-20",
+    "endDate": "2023-07-30",
+    "costPerNight": 400,
+    "averageRating": 4.7,
+    "category": "OMG!",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "nights": "5",
+    "workType": "Soft Dev."
+  }
+]
