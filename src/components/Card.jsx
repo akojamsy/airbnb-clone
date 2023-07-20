@@ -1,11 +1,30 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Book } from "./index";
 import { AiTwotoneHeart } from "react-icons/ai";
 import { BsStarFill } from "react-icons/bs";
 import Carousel from "./Carousel";
 import moment from "moment/moment";
 
-const Card = ({ item }) => {
+const Card = ({ item, i }) => {
+  const [liked, setLiked] = useState(false);
+  const [arr, setArr] = useState([]);
+
+  const handleLiked = (like) => {
+    let newArr = arr.some((el) => (el = i));
+
+    if (newArr) {
+      setArr(arr.filter((item) => item !== like));
+      setLiked(!liked);
+      return;
+    } else if (i === like) {
+      setLiked(!liked);
+      setArr([...arr, i]);
+    }
+  };
+
+  // useEffect(() => {
+  //   console.log(arr);
+  // }, [arr]);
   return (
     <div className='cursor-pointer p-0'>
       <div className='relative group bg-slate-40 w-full '>
@@ -19,8 +38,14 @@ const Card = ({ item }) => {
             />
           ))}
         </Carousel>
-        <span className='absolute right-3 top-3'>
-          <AiTwotoneHeart size={24} className='text-neutral-500' />
+        <span
+          className='absolute right-3 top-3 z-10'
+          onClick={() => handleLiked(i)}
+        >
+          <AiTwotoneHeart
+            size={24}
+            className={`${liked ? "text-red-500" : "text-neutral-500 "}`}
+          />
         </span>
         <Book />
       </div>

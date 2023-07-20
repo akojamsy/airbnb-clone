@@ -6,7 +6,7 @@ const Apartment = ({ selected }) => {
   const [checked, setChecked] = useState(false);
 
   return (
-    <div className='grid mx-10 mb-10 pt-52'>
+    <div className='grid mx-10 mb-10 h-calc(100vh-2080px)'>
       <div className='flex items-center justify-center'>
         <div className='flex border-[1px] w-full md:w-[620px] p-3.5 rounded-xl'>
           <div className='flex flex-col md:flex-row flex-grow md:items-center md:gap-4'>
@@ -39,7 +39,7 @@ const Apartment = ({ selected }) => {
       </div>
       <div className='grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-7 my-4'>
         {selected?.length > 0 &&
-          selected?.map((item, i) => <Card key={i} item={item} />)}
+          selected?.map((item, i) => <Card key={i} item={item} i={i} />)}
       </div>
     </div>
   );

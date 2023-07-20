@@ -70,6 +70,7 @@ const Carousel = ({ children: slides }) => {
         <div className='flex items-center justify-center gap-2'>
           {slides?.map((_, i) => (
             <div
+              key={i}
               className={`transition-all w-2 h-2 bg-white rounded-full ${
                 current === i ? "p-1" : "bg-opacity-50"
               }`}

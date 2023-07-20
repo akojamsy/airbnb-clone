@@ -1,7 +1,7 @@
 [
   {
     "title": "Support",
-    "Support": [
+    "links": [
       "Help Center",
       "AirCover",
       "Supporting people with disabilities",
@@ -13,14 +13,14 @@
 
   {
     "title": "Community",
-    "Community": [
+    "links": [
       "Airbnb.org: disaster relief housing",
       " Combating discrimination"
     ]
   },
   {
     "title": "Hosting",
-    "Hosting": [
+    "links": [
       "Airbnb your home",
       "AirCover for Hosts",
       "Explore hosting resources",
@@ -31,7 +31,7 @@
   },
   {
     "title": "Airbnb",
-    "Airbnb": [
+    "links": [
       "Newsrooms",
       "Learn about new features",
       "Letter from our founders",
